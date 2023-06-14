@@ -9,5 +9,4 @@ This is a simple and elegant resume template created using HTML and CSS. It is d
 ## Features
 
 - Clean and modern design
-- Sections for personal information, work experience, education, skills, and contact details, co-curricular activities.
-
+- Sections for personal information, certifications, education, skills, and contact details, co-curricular activities.
